@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://utedrign.github.io/sitemap.html.gz
+Sitemap: https://utedrign.github.io/app/sitemap.html.gz
+Sitemap: https://utedrign.github.io/assets/sitemap.html.gz
+Sitemap: https://utedrign.github.io/css/sitemap.html.gz
+Sitemap: https://utedrign.github.io/data/sitemap.html.gz
+Sitemap: https://utedrign.github.io/includes/sitemap.html.gz
+Sitemap: https://utedrign.github.io/item/sitemap.html.gz
+Sitemap: https://utedrign.github.io/src/sitemap.html.gz
